@@ -1,0 +1,1 @@
+使用软件前，务必阅读[《软件许可协议》](https://github.com/lukezp/RomeVPN/blob/master/RomeVPN-license.md).
